@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PuzzleGame from './components/PuzzleGame/PuzzleGame';
+import PuzzleImage from './components/FullPuzzle/FullPuzzle';
 
 class App extends Component {
   render() {
@@ -8,6 +9,9 @@ class App extends Component {
         <div className="AppPuzzlePieces">
           <PuzzleGame puzzleFolder="puzzle1"/>
         </div>
+        <div className="AppPuzzleFull">
+          <PuzzleImage image="full" />
+        </div> 
       </div>
     );
   }
