@@ -1,0 +1,18 @@
+.App {
+  display: inline-flex;
+
+  @media only screen and (min-width: 800px) {
+    width: 60%;
+    margin-left: 20%;
+  }
+  font-family: 'Lato', sans-serif;
+}
+
+.AppPuzzlePieces {
+  width: 75%;
+}
+
+.AppPuzzleFull {
+  width: 25%;
+  margin-top: 14%;
+}
