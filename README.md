@@ -30,4 +30,16 @@ Enjoy the game!
 
 ## Screenshots from the Game
 
+### Mobile Version 
+
+![alt tag](./src/assets/readmePhotos/mobile1.png)
+![alt tag](./src/assets/readmePhotos/mobile2.png)
+
+### Tablet Version 
+
+![alt tag](./src/assets/readmePhotos/tablet.png)
+
+### Desktop Version
+
 ![alt tag](./src/assets/readmePhotos/desktop1.png)
+![alt tag](./src/assets/readmePhotos/desktop2.png)
