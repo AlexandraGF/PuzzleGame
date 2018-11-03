@@ -41,5 +41,5 @@ Enjoy the game!
 
 ### Desktop Version
 
-![alt tag](./src/assets/readmePhotos/desktop1.png)
+![alt tag](./src/assets/readmePhotos/desktop1.png){:height="36px" width="36px"}
 ![alt tag](./src/assets/readmePhotos/desktop2.png)
