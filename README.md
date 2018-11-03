@@ -32,12 +32,12 @@ Enjoy the game!
 
 ### Mobile Version 
 
-<img src="./src/assets/readmePhotos/mobile1.png" heigh="400px" width="400px">
-<img src="./src/assets/readmePhotos/mobile2.png" heigh="400px" width="400px">
+<img style="text-align:center" src="./src/assets/readmePhotos/mobile2.png" heigh="400px" width="400px">
+<img style="text-align:center" src="./src/assets/readmePhotos/mobile1.png" heigh="400px" width="400px">
 
 ### Tablet Version 
 
-![alt tag](./src/assets/readmePhotos/tablet.png)
+<img style="text-align:center" src="./src/assets/readmePhotos/tablet.png">
 
 ### Desktop Version
 
