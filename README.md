@@ -8,6 +8,11 @@ If needed, you can click to reveal the whole picture at the top right of the scr
 Enjoy the game!
 ```
 
+## How to play directly on the internet
+
+1. Click on the link [Puzzle Game](https://puzzlegamereact.herokuapp.com)
+2. Enjoy!
+
 ## How to play using command line
 
 1. On your command line type ``` git clone git@github.com:AlexandraGF/PuzzleGame.git ```
@@ -16,11 +21,6 @@ Enjoy the game!
 4. Run the command ``` npm start ``` and the application will run on ```localhost:3000/```
 5. Go in browser and type at the top ```localhost:3000/``` [Firefox recommended]
 6. Enjoy the puzzle!
-
-## How to play directly on the internet
-
-1. Click on the link [Puzzle Game](https://puzzlegamereact.herokuapp.com)
-2. Enjoy!
 
 ## How to run the tests
 
