@@ -32,8 +32,10 @@ Enjoy the game!
 
 ### Mobile Version 
 
-<img align="center" src="./src/assets/readmePhotos/mobile2.png" heigh="400px" width="400px">
-<img align="center" src="./src/assets/readmePhotos/mobile1.png" heigh="400px" width="400px">
+<p align="center">
+<img src="./src/assets/readmePhotos/mobile2.png" heigh="400px" width="400px">
+<img src="./src/assets/readmePhotos/mobile1.png" heigh="400px" width="400px">
+</p>
 
 ### Tablet Version 
 
